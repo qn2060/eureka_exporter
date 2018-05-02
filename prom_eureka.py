@@ -13,6 +13,8 @@ eurekas = {
     'eureka-single-pri.dev.your.md': 'pri_dev',
     'eureka-single-bck.dev.your.md': 'bck_dev',
     'eureka-master.staging.your.md': 'pri_stg',
+    'eureka-single-pri.staging.your.md': 'pri_stg_s',
+    'eureka-single-bck.staging.your.md': 'bck_stg_s',
     'eureka.prod.your.md:8080': 'pri_prd',
     'eureka2.prod.your.md:8080': 'bck_prd'
     }
